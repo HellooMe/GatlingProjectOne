@@ -1,0 +1,71 @@
+RUN	botiqueClass.Boutiquee	boutiquee	1682420944768	tesst	3.9.0
+REQUEST		To_Home	1682420945470	1682420945471	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945470	1682420945471	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945470	1682420945471	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945471	1682420945472	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945471	1682420945472	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945470	1682420945471	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945471	1682420945471	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945471	1682420945472	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	Online Boutique Home Page	END	1682420945492
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	START	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	START	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	START	1682420945493
+USER	Online Boutique Home Page	END	1682420945493
+USER	Online Boutique Home Page	START	1682420945494
+REQUEST		To_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	Online Boutique Home Page	START	1682420945494
+REQUEST		To_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945494	1682420945494	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945494	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	MultipleRequests	START	1682420945495
+USER	MultipleRequests	START	1682420945495
+USER	MultipleRequests	START	1682420945495
+USER	Online Boutique Home Page	START	1682420945495
+USER	Online Boutique Home Page	START	1682420945495
+REQUEST		T10_Home	1682420945495	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945495	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945495	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945495	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945495	1682420945495	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	MultipleRequests	START	1682420945496
+REQUEST		To_Home	1682420945496	1682420945496	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945496	1682420945496	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945496	1682420945496	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	Online Boutique Home Page	END	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	MultipleRequests	START	1682420945496
+USER	MultipleRequests	START	1682420945496
+USER	MultipleRequests	START	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	Online Boutique Home Page	START	1682420945496
+USER	Online Boutique Home Page	START	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	MultipleRequests	END	1682420945496
+USER	MultipleRequests	END	1682420945496
+REQUEST		To_Home	1682420945497	1682420945497	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	Online Boutique Home Page	START	1682420945497
+REQUEST		T10_Home	1682420945497	1682420945497	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		T10_Home	1682420945498	1682420945498	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945498	1682420945498	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	MultipleRequests	START	1682420945498
+REQUEST		T10_Home	1682420945498	1682420945498	KO	j.n.UnknownHostException: onlineboutique.dev
+REQUEST		To_Home	1682420945498	1682420945498	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	Online Boutique Home Page	END	1682420945498
+USER	MultipleRequests	START	1682420945498
+REQUEST		To_Home	1682420945498	1682420945498	KO	j.n.UnknownHostException: onlineboutique.dev
+USER	MultipleRequests	START	1682420945498
+USER	MultipleRequests	END	1682420945500
+USER	MultipleRequests	END	1682420945500
+USER	MultipleRequests	END	1682420945500

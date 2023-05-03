@@ -1,0 +1,10 @@
+{
+  "simulation": "botiqueClass.Boutiquee",
+  "simulationId": "boutiquee-20230418080045290",
+  "start": 1681804847062,
+  "description": "test",
+  "scenarios": ["MultipleRequests", "Online Boutique Home Page"],
+  "assertions": [
+
+  ]
+}
